@@ -10,9 +10,9 @@
   "runtime~main.js": "/mazboot/static/js/runtime~main.77ba042d.js",
   "runtime~main.js.map": "/mazboot/static/js/runtime~main.77ba042d.js.map",
   "static/media/font-awesome.min.css": "/mazboot/static/media/fontawesome-webfont.912ec66d.svg",
-  "static/css/2.e8b2544d.chunk.css.map": "/mazboot/static/css/2.e8b2544d.chunk.css.map",
   "static/css/main.881f0994.chunk.css.map": "/mazboot/static/css/main.881f0994.chunk.css.map",
+  "static/css/2.e8b2544d.chunk.css.map": "/mazboot/static/css/2.e8b2544d.chunk.css.map",
   "index.html": "/mazboot/index.html",
-  "precache-manifest.08e2ebf47e8a2b57834c5254efb9ba14.js": "/mazboot/precache-manifest.08e2ebf47e8a2b57834c5254efb9ba14.js",
+  "precache-manifest.635d396f3830900cdcabd46b14e533c7.js": "/mazboot/precache-manifest.635d396f3830900cdcabd46b14e533c7.js",
   "service-worker.js": "/mazboot/service-worker.js"
 }

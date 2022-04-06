@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/mazboot/precache-manifest.08e2ebf47e8a2b57834c5254efb9ba14.js"
+  "/mazboot/precache-manifest.635d396f3830900cdcabd46b14e533c7.js"
 );
 
 workbox.clientsClaim();
