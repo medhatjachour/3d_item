@@ -1,4 +1,5 @@
 import React from "react";
+
 import './css/Footer.css'
 const Footer = () => {
   return (
@@ -12,32 +13,32 @@ const Footer = () => {
                   <h2 className="footer-heading">Men</h2>
                   <ul className="list-unstyled">
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Jeans
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Jumpers
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Leather
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Shorts
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Boots
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Watches
                       </a>
                     </li>
@@ -47,37 +48,37 @@ const Footer = () => {
                   <h2 className="footer-heading">Women</h2>
                   <ul className="list-unstyled">
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Dresses
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Jumpsuits
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Shirts
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         T-shirts
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Swearshirts
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Jackets
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Coats
                       </a>
                     </li>
@@ -87,37 +88,37 @@ const Footer = () => {
                   <h2 className="footer-heading">Kids</h2>
                   <ul className="list-unstyled">
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Shirts
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         T-shirts
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Polos
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Sweaters
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Sweatshirts
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Jackets
                       </a>
                     </li>
                     <li>
-                      <a to="#" className="py-1 d-block">
+                      <a href="/https://github.com/medhatjachour" className="py-1 d-block">
                         Watches
                       </a>
                     </li>
@@ -132,7 +133,7 @@ const Footer = () => {
                   <ul className="ftco-footer-social p-0">
                     <li className="ftco-animate">
                       <a
-                        to="#"
+                        href="/https://github.com/medhatjachour"
                         data-toggle="tooltip"
                         data-placement="top"
                         title="Twitter"
@@ -142,7 +143,7 @@ const Footer = () => {
                     </li>
                     <li className="ftco-animate">
                       <a
-                        to="#"
+                        href="/https://github.com/medhatjachour"
                         data-toggle="tooltip"
                         data-placement="top"
                         title="Facebook"
@@ -152,7 +153,7 @@ const Footer = () => {
                     </li>
                     <li className="ftco-animate">
                       <a
-                        to="#"
+                        href="/https://github.com/medhatjachour"
                         data-toggle="tooltip"
                         data-placement="top"
                         title="Instagram"
@@ -162,7 +163,7 @@ const Footer = () => {
                     </li>
                     <li className="ftco-animate">
                       <a
-                        to="#"
+                        href="/https://github.com/medhatjachour"
                         data-toggle="tooltip"
                         data-placement="top"
                         title="Linkedin"
@@ -197,17 +198,17 @@ const Footer = () => {
                 <script>document.write(new Date().getFullYear());</script> All
                 rights reserved | This template is made with{" "}
                 <i className="ion-ios-heart" aria-hidden="true"></i> by{" "}
-                <a to="https://colorlib.com" target="_blank">
+                <a href="/https://github.com/medhatjachour"  target="_blank">
                   Colorlib.com
                 </a>
               </p>
             </div>
             <div className="col-md-6 col-lg-4 text-md-right">
               <p className="mb-0 list-unstyled">
-                <a className="mr-md-3" to="#">
+                <a className="mr-md-3" href="/https://github.com/medhatjachour">
                   Terms &amp; Conditions
                 </a>
-                <a className="mr-md-3" to="#">
+                <a className="mr-md-3" href="/https://github.com/medhatjachour">
                   Privacy
                 </a>
               </p>

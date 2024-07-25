@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# 3D Model Control
+This project is a test e-commerce website that allows users to view and interact with 3D models. Users can change the colors of meshes, adjust the view, and control the camera. The project is built using React, Redux, Three.js, React Router DOM, React Three Fiber, Axios, Formik, and Bootstrap..
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+- Display 3D models with interactive controls
+- Change colors of 3D model meshes
+- Adjust camera view and position
+- User authentication and authorization
+- Product listing and detail pages
+- Shopping cart functionality
+- Responsive design
 
-## Available Scripts
+![alt text](https://github.com/medhatjachour/3d_item/blob/main/sample/4.png?raw=true)
+![alt text](https://github.com/medhatjachour/3d_item/blob/main/sample/3.png?raw=true)
+![alt text](https://github.com/medhatjachour/3d_item/blob/main/sample/2.png?raw=true)
+![alt text](https://github.com/medhatjachour/3d_item/blob/main/sample/1.png?raw=true)
 
-In the project directory, you can run:
+## Technologies Used
+- React: A JavaScript library for building user interfaces.
+- Redux: A predictable state container for JavaScript apps.
+- Three.js: A JavaScript library for creating 3D graphics.
+- React Router DOM: Declarative routing for React applications.
+- React Three Fiber: A React renderer for Three.js.
+- Axios: A promise-based HTTP client for the browser and Node.js.
+- Formik: A library for building forms in React.
+-  Bootstrap: A CSS framework for building responsive web designs.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository:
+```bash
+git clone https://github.com/medhatjachour/3d_item.git
+cd e3d_item
+```
+2. Install dependencies:
+```bash
+npm install
+```
+3. Start the development server:
+```bash
+npm start
+```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Usage
+```
+1. Open your browser and navigate to http://localhost:3000.
+2. Browse the product listings and select a product to view its 3D model.
+3. use the controls to change the colors of the model’s meshes and adjust the camera view.
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
 
-### `npm run build`
+Contributions are welcome! If you’d like to contribute to this project, just contact me
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+[MIT](https://choosealicense.com/licenses/mit/)

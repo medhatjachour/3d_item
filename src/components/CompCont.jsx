@@ -45,10 +45,10 @@ const Compcont = () => {
     );
   };
 
-  const filterProduct = (cat) => {
-    const updateList = data.filter((x) => x.category === cat);
-    setfilter(updateList);
-  };
+  // const filterProduct = (cat) => {
+  //   const updateList = data.filter((x) => x.category === cat);
+  //   setfilter(updateList);
+  // };
 
   const ShowProducts = () => {
     return (

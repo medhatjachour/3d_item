@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import ReactImageZoom from "react-image-zoom";
+// import ReactImageZoom from "react-image-zoom";
 
 import { useDispatch } from "react-redux";
 import { addCart } from "../redux/action";
@@ -48,12 +48,12 @@ const Product = () => {
       </>
     );
   };
-  const propszoom = {
-    width: 400,
-    height: 250,
-    zoomWidth: 500,
-    img: product.image,
-  };
+  // const propszoom = {
+  //   width: 400,
+  //   height: 250,
+  //   zoomWidth: 500,
+  //   img: product.image,
+  // };
   const ShowProducts = () => {
 
     return (
